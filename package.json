@@ -1,0 +1,32 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "description": "Frontend Components and Styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{html,css,scss,js}'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyelsh/ui.git"
+  },
+  "keywords": [
+    "frontend",
+    "ui-components",
+    "scss",
+    "responsive-design",
+    "theming",
+    "accessibility",
+    "modular"
+  ],
+  "author": "Anthony Elshafei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthonyelsh/ui/issues"
+  },
+  "homepage": "https://github.com/anthonyelsh/ui#readme",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
